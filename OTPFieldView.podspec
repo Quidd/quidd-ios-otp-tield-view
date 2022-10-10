@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "OTPFieldView"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "A CocoaPods library for One Time Password View written in Swift"
 
   spec.description  = <<-DESC
